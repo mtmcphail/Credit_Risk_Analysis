@@ -23,13 +23,13 @@ Recommendations will be made on which approach is the most effective and whether
 *Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.*
 Below are the results from the various techniques used to find the more effective predictive model for High-Risk loans.  The key is to get the highest 
 
-**RandomOverSample:**
+**RandomOverSample:**  
 ![D1](./Resources/D1_RandomOverSample.png)
 
 **SMOTE:**  
 ![D1](./Resources/D1_SMOTE.png)
 
-**ClusterCentroids:**
+**ClusterCentroids:**  
 ![D1](./Resources/D1_ClusterCentroids.png)
 
 **SMOTEENN:**  
@@ -40,7 +40,7 @@ Below are the results from the various techniques used to find the more effectiv
 
 ![D3](./Resources/D3_BalancedRandomForest.png)
 
-**EasyEnsembleClassifier:**
+**EasyEnsembleClassifier:**  
 ![D3](./Resources/D3_EasyEnsemble.png)
 
 
